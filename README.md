@@ -14,6 +14,14 @@ Update
 Create a template for direct kubernetes deployment
 
     helm template msqltest ./mysql --values=./mysql/values.yaml > msql_test.yaml 
+
+Create a chart
+
+    helm create fleetman-hel-charts
+
+Execute the chart output in the folder
+
+    helm template .
  
 Apply to kubernetes
 
