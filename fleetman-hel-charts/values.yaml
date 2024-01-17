@@ -1,5 +1,5 @@
 webapp:
-  numberOfWebReplicas: 2
+  numberOfWebReplicas: 1
 
 dockerRepoName: richarUchesterwood
 
