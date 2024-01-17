@@ -4,4 +4,4 @@ webapp:
 dockerRepoName: richardUchesterwood
 
 # "prod" or "dev"
-development: yes
+development: no
