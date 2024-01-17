@@ -1,7 +1,7 @@
 webapp:
   numberOfWebReplicas: 1
 
-dockerRepoName: richardUchesterwood
+dockerRepoName: richardchesterwood
 
 # "prod" or "dev"
 development: no
